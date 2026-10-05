@@ -1,0 +1,10 @@
+ [
+      {
+          "package": "netkit",
+          "url": "https://github.com/agallinat/netkit"
+      },
+      {
+          "package": "datablinder",
+          "url": "https://github.com/agallinat/datablinder"
+      }
+  ]
