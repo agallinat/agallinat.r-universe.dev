@@ -4,4 +4,4 @@
   builds and hosts binaries for my R packages.
 
   Packages are listed in `packages.json`. See the
-  [R-universe docs](https://docs.r-universe.dev/publish/set-up.html).
+  [R-universe docs](https://docs.r-universe.dev/publish/set-up.html). 
